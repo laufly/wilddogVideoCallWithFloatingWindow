@@ -5,6 +5,6 @@ package com.wilddog.floatingwindow;
  */
 
 public class Constants {
-    public static final String VIDEO_APPID = "wd4824959511jedimo";
-    public static final String SYNC_APPID = "wd4548698313swfjcn";
+    public static final String VIDEO_APPID = <Your VIDEO APPID>;
+    public static final String SYNC_APPID = <Your SYNC APPID>;
 }
